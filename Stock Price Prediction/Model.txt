@@ -1,0 +1,3 @@
+* Autoregressive Moving Average (ARMA)
+* Autoregressive Integrated Moving Average (ARIMA)
+* Seasonal ARIMA (SARIMA)
